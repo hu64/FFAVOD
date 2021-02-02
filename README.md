@@ -28,7 +28,7 @@ The fusion module. Channels are represented by colors. The fusion module  is  co
 For the official references, please refer to the paper. To the best of our knowledge, our method achieves SOTA on UA-DETRAC and UAVDT. 
 
 <p align="center">
-  <img src="https://github.com/hu64/FFAVOD/blob/master/images/results-detrac.png?raw=true" alt="results on ua-detrac"  width="600"/>
+  <img src="https://github.com/hu64/FFAVOD/blob/master/images/results-detrac.png?raw=true" alt="results on ua-detrac"  width="900"/>
 </p>
 <p align="center">
   <img src="https://github.com/hu64/FFAVOD/blob/master/images/results-uav.png?raw=true" alt="results on the uavdt dataset"  width="600"/>
