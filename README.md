@@ -5,9 +5,6 @@ Repository for the paper FFAVOD: Feature Fusion Architecture for Video Object De
 <sup>1</sup> Polytechnique Montréal
 <sup>2</sup> Genetec <br>
 
-## Code
-Code will soon be added.
-
 ## Abstract
 A significant amount of redundancy exists between consecutive frames of a video. Object detectors typically produce detections for one image at a time, without any capabilities for taking advantage of this redundancy. Meanwhile, many applications for object detection work with videos, including intelligent transportation systems, advanced driver assistance systems and video surveillance. Our work aims at taking advantage of the similarity between video frames to produce better detections. We propose FFAVOD, standing for feature fusion architecture for video object detection. We first introduce a novel video object detection architecture that allows a network to share feature maps between nearby frames. Second, we propose a feature fusion module that learns to merge feature maps to enhance them. We show that using the proposed architecture and the fusion module can improve the performance of three base object detectors on two object detection benchmarks containing sequences of moving road users. Using our architecture on the SpotNet base detector, we obtain the state-of-the-art performance on the UA-DETRAC public benchmark as well as on the UAVDT dataset.
 
@@ -26,6 +23,14 @@ The fusion module. Channels are represented by colors. The fusion module  is  co
 ## Results
 
 Coming soon.
+
+## Model Zoo
+
+https://polymtlca0-my.sharepoint.com/:f:/g/personal/hughes_perreault_polymtl_ca/EgdXk5gp0hVMj9D_EaZDgzUBNHCOjeyv1YesZEUYqRP3Wg?e=kpPuXv
+
+## Reproduce results
+
+To reproduce the results, please use the scripts in /ffavod-experiments and adapt the paths. 
 
 ## Acknowledgements
 
