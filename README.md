@@ -77,6 +77,15 @@ https://polymtlca0-my.sharepoint.com/:f:/g/personal/hughes_perreault_polymtl_ca/
 
 To reproduce the results, please use the scripts in /ffavod-experiments and adapt the paths. 
 
+## Specific Model Architectures
+A visual representation of FFAVOD with a window of five frames (n=2) for each of the three models used.
+
+![Architecture](imgs/architecture_RN-VID.jpg "")
+
+![Architecture](imgs/architecture_CenterNet.jpg "")
+
+![Architecture](imgs/architecture_SpotNet.jpg "")
+
 ## Acknowledgements
 
 The code for this paper is mainly built upon [CenterNet](https://github.com/xingyizhou/CenterNet), we would therefore like to thank the authors for providing the source code of their paper. We also acknowledge the support of the Natural Sciences and Engineering Research Council of Canada (NSERC), [RDCPJ 508883 - 17], and the support of Genetec.
