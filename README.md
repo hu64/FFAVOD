@@ -80,19 +80,19 @@ To reproduce the results, please use the scripts in /ffavod-experiments and adap
 ## Specific Model Architectures
 A visual representation of FFAVOD with a window of five frames (n=2) for each of the three models used.
 
-### RN-VID
+### RN-VID:
 <p align="center">
-  <img src="https://github.com/hu64/FFAVOD/blob/master/imgs/architecture_RN-VID.jpg?raw=true" alt=""/>
+  <img src="https://github.com/hu64/FFAVOD/blob/master/imgs/architecture_RN-VID.jpg?raw=true" width="600" alt=""/>
 </p>
 
-### CenterNet
+### CenterNet:
 <p align="center">
-  <img src="https://github.com/hu64/FFAVOD/blob/master/imgs/architecture_CenterNet.jpg?raw=true" alt=""/>
+  <img src="https://github.com/hu64/FFAVOD/blob/master/imgs/architecture_CenterNet.jpg?raw=true" width="600" alt=""/>
 </p>
 
-### SpotNet
+### SpotNet:
 <p align="center">
-  <img src="https://github.com/hu64/FFAVOD/blob/master/imgs/architecture_SpotNet.jpg?raw=true" alt=""/>
+  <img src="https://github.com/hu64/FFAVOD/blob/master/imgs/architecture_SpotNet.jpg?raw=true" width="600" alt=""/>
 </p>
 
 ## Acknowledgements
