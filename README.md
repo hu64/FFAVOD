@@ -14,9 +14,7 @@ A significant amount of redundancy exists between consecutive frames of a video.
 
 A visual representation of FFAVOD with a window of 5 frames (n=2). Frames are passed through the backbone network of the base object detection network, and the fusion module takes their outputs as input. Finally, the fusion module outputs a fused feature map compatible with the base object detection network, and the base object detection heads are applied to the fused feature map to classify the object categories and regress the bounding boxes.
 
-<p align="center">
-  <img src="https://github.com/hu64/FFAVOD/blob/master/imgs/fusion_module.jpg?raw=true" alt="The Fusion Module"/>
-</p>
+<img src="https://github.com/hu64/FFAVOD/blob/master/imgs/fusion_module.jpg?raw=true" alt="The Fusion Module"/>
 
 The fusion module. Channels are represented by colors. The fusion module  is  composed  of  channel  grouping,  concatenation  followed  by  1×1 convolution and a final re-ordering of channels.
 
@@ -81,19 +79,13 @@ To reproduce the results, please use the scripts in /ffavod-experiments and adap
 A visual representation of FFAVOD with a window of five frames (n=2) for each of the three models used.
 
 ### RN-VID:
-<p align="center">
-  <img src="https://github.com/hu64/FFAVOD/blob/master/imgs/architecture_RN-VID.jpg?raw=true" width="600" alt=""/>
-</p>
+<img src="https://github.com/hu64/FFAVOD/blob/master/imgs/architecture_RN-VID.jpg?raw=true" width="800" alt=""/>
 
 ### CenterNet:
-<p align="center">
-  <img src="https://github.com/hu64/FFAVOD/blob/master/imgs/architecture_CenterNet.jpg?raw=true" width="600" alt=""/>
-</p>
+<img src="https://github.com/hu64/FFAVOD/blob/master/imgs/architecture_CenterNet.jpg?raw=true" width="800" alt=""/>
 
 ### SpotNet:
-<p align="center">
-  <img src="https://github.com/hu64/FFAVOD/blob/master/imgs/architecture_SpotNet.jpg?raw=true" width="600" alt=""/>
-</p>
+<img src="https://github.com/hu64/FFAVOD/blob/master/imgs/architecture_SpotNet.jpg?raw=true" width="800" alt=""/>
 
 ## Acknowledgements
 
