@@ -1,5 +1,6 @@
 # FFAVOD
-Repository for the paper (currently under review) FFAVOD: Feature Fusion Architecture for Video Object Detection
+Repository for the paper FFAVOD: Feature Fusion Architecture for Video Object Detection
+<br> In PRLetters 2021 <br>
 <br> by Hughes Perreault<sup>1</sup>, Guillaume-Alexandre Bilodeau<sup>1</sup>, Nicolas Saunier<sup>1</sup> and Maguelonne Héritier<sup>2</sup>.
 <br>
 <sup>1</sup> Polytechnique Montréal
