@@ -1,3 +1,5 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/ffavod-feature-fusion-architecture-for-video/object-detection-on-ua-detrac)](https://paperswithcode.com/sota/object-detection-on-ua-detrac?p=ffavod-feature-fusion-architecture-for-video) <br>
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/ffavod-feature-fusion-architecture-for-video/object-detection-on-uavdt)](https://paperswithcode.com/sota/object-detection-on-uavdt?p=ffavod-feature-fusion-architecture-for-video) <br>
 # FFAVOD
 Repository for the paper FFAVOD: Feature Fusion Architecture for Video Object Detection
 <br> In PRLetters 2021
